@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![natterstefan](https://user-images.githubusercontent.com/84132551/153771478-7b5243cb-6731-4a02-8a3f-5811e46bc5bc.mp4
 )
 
+![GitHub Views](https://github.com/taroIfElse/taroIfElse/issues/1#issue-1136336949)
+
 ## Hi there 👋🏻,
 
 I am a fullstack developer and electronic technician, I am passionate about development, technology, physics and my goal is to solve complex problems to help people
