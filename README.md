@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **taroIfElse/taroIfElse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋🏻,
 
-I am a Mexican programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
+I am a fullstack developer and electronic technician, I am passionate about development, technology, physics and my goal is to solve complex problems to help people
 
 ## 📬 Get in touch
 
