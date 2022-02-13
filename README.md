@@ -28,16 +28,9 @@ I am a fullstack developer and electronic technician, I am passionate about deve
 
 - LinkedIn: [linkedin.com/in/lautaro-avecilla ](https://www.linkedin.com/in/lautaro-avecilla)
 
-
-
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/fernandomireles/fernandomireles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomireles&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-<a href="https://github.com/fernandomireles/fernandomireles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandomireles&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fernandomireles's GitHub Stats" />
-</a>
+## ABOUT ME:
+I started in development at the age of 18 when in my academic training we began to program microcontrollers, little by little I went into software until today when I work with technologies such as:
+JavaScript, React, React-Native, NodeJs/Express.
+I am currently studying Computer Systems Engineering.
+I love to learn, grow and solve problems.
 
