@@ -26,7 +26,7 @@ I am a fullstack developer and electronic technician, I am passionate about deve
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/lautaro-avecilla/](https://www.linkedin.com/in/lautaro-avecilla//)
+- LinkedIn: [linkedin.com/in/lautaro-avecilla ](https://www.linkedin.com/in/lautaro-avecilla)
 
 
 
