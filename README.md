@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![natterstefan](https://user-images.githubusercontent.com/84132551/153771478-7b5243cb-6731-4a02-8a3f-5811e46bc5bc.mp4
-)
-
-![GitHub Views](https://github.com/taroIfElse/taroIfElse/issues/1#issue-1136336949)
+![video-to-gif-converter (1)](https://user-images.githubusercontent.com/84132551/153772040-ce602800-0cd8-4743-b2d2-ae79f0e316f7.gif)
 
 ## Hi there 👋🏻,
 
