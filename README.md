@@ -28,7 +28,7 @@ I am a fullstack developer and electronic technician, I am passionate about deve
 
 ## ABOUT ME:
 I started in development at the age of 18 when in my academic training we began to program microcontrollers, little by little I went into software until today when I work with technologies such as:
-JavaScript, React, React-Native, NodeJs/Express.
+.NET, JavaScript, React, React-Native, NodeJs/Express.
 I am currently studying Computer Systems Engineering.
 I love to learn, grow and solve problems.
 
