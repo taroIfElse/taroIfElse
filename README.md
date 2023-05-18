@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋🏻,
 
-I am a fullstack developer and electronic technician, I am passionate about development, technology, physics and my goal is to solve complex problems to help people
+I am a fullstack developer | IoT Developer and electronic technician, I am passionate about development, technology, physics and my goal is to solve complex problems to help people
 
 ## 📬 Get in touch
 
